@@ -1,5 +1,5 @@
-1.
-Build a Java program to input and manage student grades.
+1. Student Grade Tracker
+● Build a Java program to input and manage student grades.
 ● Calculate average, highest, and lowest scores.
 ● Use arrays or ArrayLists to store and manage data.
 ● Display a summary report of all students.
@@ -24,5 +24,7 @@ Build a Java program to input and manage student grades.
 ● Add room categorization (e.g., Standard, Deluxe, Suite) 
 ● Allow users to make and cancel reservations. 
 ● Implement payment simulation and booking details view. 
-● Use OOP + database/File I/O for storing bookings and availability
+● Use OOP + database/File I/O for storing bookings and availability. 
+
+
 
